@@ -64,8 +64,8 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-	
-	<gap:plugin name="com.cordova.plugins.file-transfer" />
+	<!-- 
+	<gap:plugin name="com.cordova.plugins.file-transfer" /> -->
 
 
     <!-- Third party plugins -->
